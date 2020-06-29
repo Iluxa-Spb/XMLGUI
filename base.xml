@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db>
+  <user_account id="1" type_id="1">
+    <last_name_user>Ульянова</last_name_user>
+    <type_name>Фитнес</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>20.07.2020 21:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>10</rate>
+  </user_account>
+  <user_account id="2" type_id="1">
+    <last_name_user>Радионова</last_name_user>
+    <type_name>Фитнес</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>20.07.2020 21:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>10</rate>
+  </user_account>
+  <user_account id="3" type_id="1">
+    <last_name_user>Наумова</last_name_user>
+    <type_name>Фитнес</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>20.07.2020 21:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>10</rate>
+  </user_account>
+  <user_account id="4" type_id="2">
+    <last_name_user>Вердионова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="5" type_id="2">
+    <last_name_user>Вердионова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="6" type_id="2">
+    <last_name_user>Вердионова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="7" type_id="2">
+    <last_name_user>Гувернова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="8" type_id="2">
+    <last_name_user>Фламенцева</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="9" type_id="2">
+    <last_name_user>Доброумова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="10" type_id="2">
+    <last_name_user>Иванова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Фламеева</last_name_coach>
+    <start_date>20.07.2020 19:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>15</rate>
+  </user_account>
+  <user_account id="11" type_id="1">
+    <last_name_user>Кардионова</last_name_user>
+    <type_name>Фитнес</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>20.07.2020 21:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>10</rate>
+  </user_account>
+  <user_account id="12" type_id="1">
+    <last_name_user>Урова</last_name_user>
+    <type_name>Танцы</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>2002-07-20T00:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>12</rate>
+  </user_account>
+  <user_account id="13" type_id="0">
+    <last_name_user>Fdf</last_name_user>
+    <type_name></type_name>
+    <last_name_coach></last_name_coach>
+    <start_date>01.01.01</start_date>
+    <num_minutes>0</num_minutes>
+    <rate>0</rate>
+  </user_account>
+  <user_account id="14" type_id="1">
+    <last_name_user>Ульянова</last_name_user>
+    <type_name>Фитнес</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>20.07.2020 21:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>10</rate>
+  </user_account>
+  <user_account id="15" type_id="1">
+    <last_name_user>Ульянова</last_name_user>
+    <type_name>Фитнес</type_name>
+    <last_name_coach>Петрова</last_name_coach>
+    <start_date>20.07.2020 21:00:00</start_date>
+    <num_minutes>60</num_minutes>
+    <rate>10</rate>
+  </user_account>
+</db>

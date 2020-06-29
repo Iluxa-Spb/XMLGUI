@@ -1,0 +1,21 @@
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\bin\Debug\XMLGUI.exe.config
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\bin\Debug\XMLGUI.exe
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\bin\Debug\XMLGUI.pdb
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.csprojAssemblyReference.cache
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.Forms.FilterProperties.resources
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.XMLViewer.resources
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.csproj.GenerateResource.cache
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.exe
+C:\Users\kseno\source\repos\UDP.Server\XMLGUI\obj\Debug\XMLGUI.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\bin\Debug\XMLGUI.exe.config
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\bin\Debug\XMLGUI.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\bin\Debug\XMLGUI.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.Forms.FilterProperties.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.XMLViewer.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 8\XMLGUI\obj\Debug\XMLGUI.pdb
